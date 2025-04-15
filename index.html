@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hammond Robotics - Főoldal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif; /* Inter betűtípus használata */
+        }
+    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gray-900 text-gray-100 min-h-screen flex flex-col items-center justify-center p-8">
+
+    <header class="text-center mb-12">
+        <img src="Hammond_Robotics_Icon.svg" alt="Hammond Robotics Logo Placeholder" class="mx-auto mb-4 rounded">
+        <h1 class="text-4xl font-bold text-orange-500 mb-2">Hammond Robotics</h1>
+        <p class="text-xl text-gray-400 mb-8">A Határvidék Jövőjének Megalkotása</p>
+        <a href="ion.html" class="bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 px-8 rounded-lg shadow transition duration-300 ease-in-out text-lg">
+            Ismerd meg Titánjainkat
+        </a>
+    </header>
+
+    <main class="w-full max-w-2xl text-center mt-8">
+        <p class="text-gray-300 leading-relaxed">
+            Üdvözlünk a Hammond Roboticsnál, a technológiai innováció élvonalában. Fedezd fel a legfejlettebb Titánjainkat, amelyeket a Határvidék legkeményebb kihívásaira terveztünk.
+        </p>
+    </main>
+
+    <footer class="mt-12 text-center text-gray-500 text-sm">
+        &copy; <span id="current-year"></span> Hammond Robotics. Minden jog fenntartva. (Ez egy rajongói oldal)
+    </footer>
+
+    <script>
+        // Aktuális év beállítása a láblécben
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+    </script>
+
+</body>
+</html>

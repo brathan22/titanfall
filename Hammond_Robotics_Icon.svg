@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="459.96399"
+   height="512"
+   viewBox="0 0 459.96399 512"
+   sodipodi:docname="Hammond_Robotics_Icon.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview4"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.2313043"
+     inkscape:cx="292.20861"
+     inkscape:cy="222.02113"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g827"
+     transform="matrix(0.99705445,0,0,0.99705499,-1.7659728,0.03533997)">
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(1.0920844,0,0,1.0921336,-161.8755,-162.73366)"
+       id="g830">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect823"
+         width="40.607346"
+         height="142.93785"
+         x="339.47742"
+         y="159.99294" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 281.1792,304.44742 40.19921,10e-6 -0.0718,85.78226 79.2499,-0.28713 -0.28714,-85.56692 39.58906,-0.0359 0.0359,216.82455 -39.62495,0.28714 v -94.46817 h -78.67562 l -0.28714,94.46817 H 281.1074 Z"
+         id="path825"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </g>
+    <path
+       id="path815"
+       d="M 317.98047,81.878906 V 130.15625 A 172.21684,172.21684 0 0 1 405.7207,280.11914 172.21684,172.21684 0 0 1 233.50391,452.33594 172.21684,172.21684 0 0 1 61.287109,280.11914 172.21684,172.21684 0 0 1 145.72852,132.17773 V 82.205078 A 218.62642,218.62642 0 0 0 13.806641,282.81641 218.62642,218.62642 0 0 0 232.43359,501.44141 218.62642,218.62642 0 0 0 451.05859,282.81641 218.62642,218.62642 0 0 0 317.98047,81.878906 Z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1824981;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
